@@ -5,7 +5,7 @@
 ## 💡 Overview
 This project is a comprehensive **Call Center Performance Dashboard** designed in Microsoft Excel for **Shopland**, a growing e-commerce startup. It helps management monitor agent performance, track customer satisfaction, and make data-driven decisions for rewards, recognition, and operational improvements.
 
-The dashboard utilizes **Power Pivot, Slicers, and Interactive Charts** to provide a dynamic and centralized view of KPIs across three major cities—Cincinnati, Cleveland, and Columbus.
+The dashboard utilizes **Power Pivot, Slicers, and Interactive Charts** to provide a dynamic and centralized view of KPIs across three major cities - Cincinnati, Cleveland, and Columbus.
 
 ---
 
