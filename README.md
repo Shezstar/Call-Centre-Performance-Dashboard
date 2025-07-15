@@ -1,5 +1,7 @@
 # 📞 Call Center Performance Dashboard – Excel Project
 
+![Call Center Dashboard](https://github.com/Shezstar/Call-Centre-Performance-Dashboard/blob/main/Screenshot%202025-07-16%20032744.png)
+
 ## 💡 Overview
 This project is a comprehensive **Call Center Performance Dashboard** designed in Microsoft Excel for **Shopland**, a growing e-commerce startup. It helps management monitor agent performance, track customer satisfaction, and make data-driven decisions for rewards, recognition, and operational improvements.
 
