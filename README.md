@@ -59,3 +59,5 @@ The dashboard enabled Shopland to:
 4. Explore the interactive visuals for actionable insights.
 
 ---
+## 📽️ Watch Presentation Video  
+[![Watch the presentation](https://img.youtube.com/vi/pR96SBttKK8/0.jpg)](https://youtu.be/pR96SBttKK8)  
